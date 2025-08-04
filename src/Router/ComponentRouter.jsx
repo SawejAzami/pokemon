@@ -1,6 +1,6 @@
 import { Link, Route, Routes } from "react-router-dom";
 import PokemonDetails from "../components/PokemonDetails";
-import Home from "../components/home";
+import Home from "../components/Home";
 
 function ComponentRouter() {
     return (
